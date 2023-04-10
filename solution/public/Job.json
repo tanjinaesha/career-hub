@@ -1,0 +1,107 @@
+[
+  {
+     "id":1,
+    "logo": "path/to/logo1.png",
+    "title":"abc",
+    "CompanyName": "Category 1",
+    "remoteOrOnsite": "Onsite",
+      "location": "San Francisco, CA",
+      "fulltimeOrParttime": "Full-time",
+      "salary": "$100,000 - $120,000",
+      "jobDescription": "We are looking for an experienced Backend Developer to join our team and help us build scalable and efficient systems.",
+      "jobResponsibility": "Responsibilities:\n- Design and implement backend systems that meet business requirements.\n- Optimize systems for performance, scalability, and reliability.",
+      "educationalRequirements": "Bachelor's degree in Computer Science or related field.",
+      "experiences": "3+ years of experience in backend development.",
+      
+        "phone": "+1-555-555-5555",
+        "email": "jobs@company2.com"
+      
+  },
+  {
+    "id":2,
+    "logo": "path/to/logo1.png",
+    "title":"abc",
+    "CompanyName": "Category 1",
+    "remoteOrOnsite": "Onsite",
+      "location": "San Francisco, CA",
+      "fulltimeOrParttime": "Full-time",
+      "salary": "$100,000 - $120,000",
+      "jobDescription": "We are looking for an experienced Backend Developer to join our team and help us build scalable and efficient systems.",
+      "jobResponsibility": "Responsibilities:\n- Design and implement backend systems that meet business requirements.\n- Optimize systems for performance, scalability, and reliability.",
+      "educationalRequirements": "Bachelor's degree in Computer Science or related field.",
+      "experiences": "3+ years of experience in backend development.",
+      
+        "phone": "+1-555-555-5555",
+        "email": "jobs@company2.com"
+  },
+  {
+    "id":3,
+    "logo": "path/to/logo1.png",
+    "title":"abc",
+    "CompanyName": "Category 1",
+    "remoteOrOnsite": "Onsite",
+      "location": "San Francisco, CA",
+      "fulltimeOrParttime": "Full-time",
+      "salary": "$100,000 - $120,000",
+      "jobDescription": "We are looking for an experienced Backend Developer to join our team and help us build scalable and efficient systems.",
+      "jobResponsibility": "Responsibilities:\n- Design and implement backend systems that meet business requirements.\n- Optimize systems for performance, scalability, and reliability.",
+      "educationalRequirements": "Bachelor's degree in Computer Science or related field.",
+      "experiences": "3+ years of experience in backend development.",
+      
+        "phone": "+1-555-555-5555",
+        "email": "jobs@company2.com"
+  },
+  {
+    "id":4,
+    "logo": "path/to/logo1.png",
+    "title":"abc",
+    "CompanyName": "Category 1",
+    "remoteOrOnsite": "Onsite",
+      "location": "San Francisco, CA",
+      "fulltimeOrParttime": "Full-time",
+      "salary": "$100,000 - $120,000",
+      "jobDescription": "We are looking for an experienced Backend Developer to join our team and help us build scalable and efficient systems.",
+      "jobResponsibility": "Responsibilities:\n- Design and implement backend systems that meet business requirements.\n- Optimize systems for performance, scalability, and reliability.",
+      "educationalRequirements": "Bachelor's degree in Computer Science or related field.",
+      "experiences": "3+ years of experience in backend development.",
+      
+        "phone": "+1-555-555-5555",
+        "email": "jobs@company2.com"
+  }
+  ,{
+    "id":5,
+    "logo": "path/to/logo1.png",
+    "title":"abc",
+    "CompanyName": "Category 1",
+    "remoteOrOnsite": "Onsite",
+      "location": "San Francisco, CA",
+      "fulltimeOrParttime": "Full-time",
+      "salary": "$100,000 - $120,000",
+      "jobDescription": "We are looking for an experienced Backend Developer to join our team and help us build scalable and efficient systems.",
+      "jobResponsibility": "Responsibilities:\n- Design and implement backend systems that meet business requirements.\n- Optimize systems for performance, scalability, and reliability.",
+      "educationalRequirements": "Bachelor's degree in Computer Science or related field.",
+      "experiences": "3+ years of experience in backend development.",
+      
+        "phone": "+1-555-555-5555",
+        "email": "jobs@company2.com"
+  },
+  {
+    "id":6
+    ,
+    "logo": "path/to/logo1.png",
+    "title":"abc",
+    "CompanyName": "Category 1",
+    "remoteOrOnsite": "Onsite",
+      "location": "San Francisco, CA",
+      "fulltimeOrParttime": "Full-time",
+      "salary": "$100,000 - $120,000",
+      "jobDescription": "We are looking for an experienced Backend Developer to join our team and help us build scalable and efficient systems.",
+      "jobResponsibility": "Responsibilities:\n- Design and implement backend systems that meet business requirements.\n- Optimize systems for performance, scalability, and reliability.",
+      "educationalRequirements": "Bachelor's degree in Computer Science or related field.",
+      "experiences": "3+ years of experience in backend development.",
+      
+        "phone": "+1-555-555-5555",
+        "email": "jobs@company2.com"
+  }
+  
+]

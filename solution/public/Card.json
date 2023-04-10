@@ -1,0 +1,22 @@
+[
+  {
+    "logo": "path/to/logo1.png",
+    "name": "Category 1",
+    "jobs": 25
+  },
+  {
+    "logo": "path/to/logo2.png",
+    "name": "Category 2",
+    "jobs": 18
+  },
+  {
+    "logo": "path/to/logo3.png",
+    "name": "Category 3",
+    "jobs": 30
+  },
+  {
+    "logo": "path/to/logo4.png",
+    "name": "Category 4",
+    "jobs": 12
+  }
+]
