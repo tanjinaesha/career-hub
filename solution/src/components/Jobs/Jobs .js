@@ -11,7 +11,12 @@ function Jobs({ id }) {
       
       .catch(error => console.log(error));
   }, []);
-  
+  const handleSeeAllJobs = () => {
+    fetch("Job.json")
+      .then(response => response.json())
+      .then(data => (data.slice(5,6)))
+      
+  };
   
   
 
@@ -38,7 +43,7 @@ function Jobs({ id }) {
         ))}
       </div>
       <br />
-      <button className="btn btn-primary d-flex justify-content-center align-item-center text-align-center-center">Show all</button>
+      <button onClick={ handleSeeAllJobs} className="btn btn-primary d-flex justify-content-center align-item-center text-align-center-center">Show all</button>
       
     </section>
   );
