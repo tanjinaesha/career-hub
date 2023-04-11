@@ -7,10 +7,12 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Home from './components/Home/Home';
 
 import JobApply from './components/JobApply/JobApply';
-import Jobs from './components/Jobs/Jobs ';
+
 import Navbar from './components/Navbar/Navbar';
 import NotFound from './components/NotFound/NotFound';
 import Statics from './components/Statics/Statics';
+import Blog from './components/Blog/Blog';
+
 
 
 
@@ -38,6 +40,10 @@ function App() {
             <Route path="/statistics" element={ <Statics></Statics>}>
              
             </Route>
+            <Route path="/blogs" element={ <Blog></Blog>}>
+             
+             </Route>
+          
             <Route path="*" element={  <NotFound></NotFound>}>
             
             </Route>
