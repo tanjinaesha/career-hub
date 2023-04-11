@@ -13,7 +13,7 @@ const Navbar = () => {
       <div className="container">
       
         <Link className="navbar-brand" to="/">
-          Enosis solution Jobs portal
+          Esolutions 
         </Link>
         <button
           className="navbar-toggler"
